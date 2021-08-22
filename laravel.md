@@ -1,9 +1,9 @@
-#After install php
+# After install php
 1. sudo apt-get install php8.0-mbstring
 
 2. sudo apt-get install php-xml
 
-#image
+# Image lib for pdf
 3. sudo apt-get install php8.0-gd
 
 
