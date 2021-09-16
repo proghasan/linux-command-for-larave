@@ -6,3 +6,6 @@
 # Using Debian, as root
     curl -fsSL https://deb.nodesource.com/setup_16.x | bash -
     apt-get install -y nodejs
+    
+# Update latest version 6 to 7
+    sudo npm install -g npm
