@@ -18,6 +18,12 @@
 # Switch Default PHP Version
     1. sudo update-alternatives --config php
     
+# Composer 2 install
+    1. sudo apt update
+    2. sudo apt install php-cli unzip
+    3. sudo apt install curl
+    https://www.digitalocean.com/community/tutorials/how-to-install-composer-on-ubuntu-20-04-quickstart
+    
 # How to install mysql
     1. sudo apt install mysql-server
     2. sudo mysql_secure_installation
