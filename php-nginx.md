@@ -1,5 +1,12 @@
 # How to install nginx
     1. sudo apt install nginx
+    2. sudo ufw app list
+    3. sudo ufw enable
+    4. sudo ufw allow 'Nginx HTTP'
+    5. sudo ufw status
+    6. sudo ufw allow 22
+    7. sudo systemctl restart nginx
+    
 # How to install php
     1. sudo apt install software-properties-common
     2. sudo add-apt-repository ppa:ondrej/php
