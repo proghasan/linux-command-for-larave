@@ -34,3 +34,4 @@
     7. SELECT user,authentication_string,plugin,host FROM mysql.user;
     8. exit
     9. mysql -u root -p
+    10. sudo apt-get install php-mysql
